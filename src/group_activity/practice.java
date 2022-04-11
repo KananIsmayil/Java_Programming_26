@@ -1,13 +1,15 @@
 package group_activity;
 
-public class practice {
-    public static void main(String[] args) {
-        for (int i = 1; i <= 10; i++) {
-            if(i==5){
-                break;
-            }
-            System.out.println(i);
-        }
 
-    }
+import java.util.ArrayList;
+import java.util.Arrays;
+
+public class Practice {
+
+    public static void main(String[] args) {
+        ArrayList<String> words = new ArrayList<>(Arrays.asList("during",""));
+
+}
+
+
 }
